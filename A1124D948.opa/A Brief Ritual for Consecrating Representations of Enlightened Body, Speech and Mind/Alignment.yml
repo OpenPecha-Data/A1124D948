@@ -1,0 +1,19 @@
+segment_sources:
+  P9E437B0B:
+    type: origin_type
+    relation: translation
+    language: en
+  P7B8F913A:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5844245632344c5d9974770ac3ab2be2:
+    P9E437B0B: 40ed196673b3428b9557976af29c8864
+    P7B8F913A: 51780e13a7c84c248470bc318e8c0e8b
+  79d263522a134c23ace502388f22f87e:
+    P9E437B0B: 4e76ae95b836492a83d2336564363b3a
+    P7B8F913A: 75a152d2a638419892461f754fccb18c
+  590d36bfaac146328ff25073d74fdc5d:
+    P9E437B0B: 981bf55229e14010b4159aa2dc9737ee
+    P7B8F913A: 6934812ca82940908c626f502054f311
